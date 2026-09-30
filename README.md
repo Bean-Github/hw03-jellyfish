@@ -72,7 +72,7 @@ Your task is to watch the video and extract the applicable information to make t
 ## (Optional) Extra Credit
 - Add another part to your jellyfish. This can be something real (ex: crown jellyfish and lions mane jellyfish have some pretty crazy features that might be fun to recreate) or whatever zany alien jellyfish addition you can imagine!
 - Refine one of the existing parts (ex: adding scalloped edges and dents/puckering to the bell of the jellyfish)
-- Render your jellyfish (a good place to start is watching [part 4](https://www.youtube.com/watch?v=1Ph-7ZpN5oY) and [part 5](https://www.youtube.com/watch?v=mCQPDf-bupY) of Entagma's Houdini in 5 Minutes series where they briefly cover rendering basics
+- Render your jellyfish (a good place to start is watching a few episodes from the playlist (https://youtube.com/playlist?list=PLopImPTpJclS7Ug5q5lsROrNDzZsI1jVE&si=rxfb89YFo46ytoYI), this playlist goes over the newer Karma Renderer and Solaris network in good detail. You can pick the episodes that you need.
 - Add some flair to your scene by adding a background (ex: coral or rock formations)
 ## Submission
 - Fork this repository
